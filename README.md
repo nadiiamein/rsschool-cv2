@@ -1,2 +1,2 @@
 # rsschool-cv
-https://Nadiia.github.io/rsschool-cv/cv
+https://nadiiamein.github.io/rsschool-cv/cv
